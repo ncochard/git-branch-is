@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.nyc_output/
+client-bundle/
+coverage/
+node_modules/
+dist/
+src/
+test/
+.babelrc
+.eslintrc.json
+jsbuild.json
+*.log
